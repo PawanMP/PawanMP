@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning **Full Stack Development (Laravel + React)**  
 💬 Ask me about **Web Development, JavaScript, PHP, Laravel**  
-📫 How to reach me: **your-email@example.com**  
+📫 How to reach me: **mppawan99@gmail.com**  
 
 ---
 
@@ -23,5 +23,5 @@
 ---
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pasindu-pawan-675ab9227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://yourportfolio.com)  
